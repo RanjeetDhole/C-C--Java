@@ -1,4 +1,5 @@
 /////Program to display 5 times Hello on screen
+// For pull and push 
 
 #include<stdio.h>
 
@@ -7,10 +8,6 @@
 int main()
 {
  
- printf("Hello\n");
- printf("Hello\n");
- printf("Hello\n");
- printf("Hello\n");
  printf("Hello\n");
 
 
